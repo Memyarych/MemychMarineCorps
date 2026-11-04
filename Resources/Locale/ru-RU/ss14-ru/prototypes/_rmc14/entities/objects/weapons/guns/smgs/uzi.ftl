@@ -1,0 +1,11 @@
+ent-RMCWeaponSMGUZI = UZI
+    .desc = Экспортированный более чем в 90 стран, этот реликт каким-то образом оказался здесь. Проще в использовании не придумаешь.
+    .suffix = Заполнен
+ent-RMCMagazineSMGUZI = магазин UZI (9x21 мм)
+    .desc = Магазин 9x21 мм для UZI. Кажется довольно маленьким, да? Всё большее могло бы вызвать ошибки подачи.
+ent-RMCMagazineSMGUZIExt = удлинённый магазин UZI (9x21 мм)
+    .desc = { ent-RMCMagazineSMGUZI.desc }
+ent-RMCCartridge9x21mmSMGUZI = { ent-CMCartridge9mmSMG }
+    .desc = Патрон 9x21 мм для пистолета-пулемёта UZI.
+ent-Bullet9x21mmUZI = { ent-Bullet10x20mm }
+    .desc = { ent-Bullet10x20mm.desc }

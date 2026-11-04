@@ -1,0 +1,14 @@
+ent-CMNormandyDoor = люк экипажа «Нормандии»
+    .desc = { ent-RMCDropshipDoorBase.desc }
+ent-CMNormandyDoorAft = грузовая дверь «Нормандии»
+    .desc = { ent-RMCDropshipDoorAftBase.desc }
+    .suffix = { ent-RMCDropshipDoorAftBase.suffix }
+ent-CMNormandyDoorPort = люк экипажа «Нормандии»
+    .desc = { ent-RMCDropshipDoorPortBase.desc }
+    .suffix = { ent-RMCDropshipDoorPortBase.suffix }
+ent-CMNormandyDoorStarboard = люк экипажа «Нормандии»
+    .desc = { ent-RMCDropshipDoorStarboardBase.desc }
+    .suffix = { ent-RMCDropshipDoorStarboardBase.suffix }
+ent-CMNormandyCockpit = { ent-RMCDropshipCockpitBase }
+    .desc = { ent-RMCDropshipCockpitBase.desc }
+    .suffix = Normandy

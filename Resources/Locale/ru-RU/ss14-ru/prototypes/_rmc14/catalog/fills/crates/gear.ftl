@@ -1,0 +1,12 @@
+ent-RMCCrateGearBinoculars = ящик смешанных биноклей (по 2x каждого, всего 6x)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateGearPackFlare = ящик наборов фальшфейеров (x20)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateGearMotionDetector = ящик детекторов движения (x2)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateGearPackFlareCAS = ящик наборов сигнальных ракет (x4)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateGearFulton = ящик устройств подъёма Fulton (x4)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateGearParachute = ящик парашютов (x20)
+    .desc = { ent-RMCCrateSupply.desc }

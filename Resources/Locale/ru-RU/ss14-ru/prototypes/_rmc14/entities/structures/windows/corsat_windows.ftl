@@ -1,0 +1,14 @@
+ent-RMCWindowFrameCorsatReinforced = { ent-RMCWindowFrameColonyReinforced }
+    .desc = { ent-RMCWindowFrameColonyReinforced.desc }
+ent-RMCWindowCorsatReinforced = усиленное окно
+    .desc = Стеклянное окно со специальной стержневой матрицей внутри рамки стены. Выглядит довольно прочным. Возможно, потребуется несколько хороших ударов, чтобы разбить его.
+ent-RMCWindowCorsatReinforcedSecurity = { ent-RMCWindowCorsatReinforced }
+    .desc = Стеклянное окно с красным оттенком и специальной стержневой матрицей внутри рамки стены. Выглядит очень прочным.
+ent-RMCWindowCorsatReinforcedResearch = { ent-RMCWindowCorsatReinforced }
+    .desc = Стеклянное окно с фиолетовым оттенком и специальной стержневой матрицей внутри рамки стены. Выглядит довольно прочным. Возможно, потребуется несколько хороших ударов, чтобы разбить его.
+ent-RMCWindowCorsatHull = окно корпуса
+    .desc = Стеклянное окно со специальной стержневой матрицей внутри рамки стены. У этого есть автоматическая система ставней для предотвращения разгерметизации.
+ent-RMCWindowCorsatHullResearch = { ent-RMCWindowCorsatHull }
+    .desc = { ent-RMCWindowCorsatHull.desc }
+ent-RMCWindowCorsatHullSec = { ent-RMCWindowCorsatHull }
+    .desc = { ent-RMCWindowCorsatHull.desc }

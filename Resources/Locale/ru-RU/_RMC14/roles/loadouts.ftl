@@ -1,0 +1,35 @@
+rmc-loadout-group-backpack = Рюкзак
+rmc-loadout-group-eyewear = Очки
+rmc-loadout-group-masks = Маски и шарфы
+rmc-loadout-group-headwear = Головные уборы
+rmc-loadout-group-helmet-garbs = Аксессуары для шлема
+rmc-loadout-group-accessories = Аксессуары одежды
+rmc-loadout-group-paperwork = Документы
+rmc-loadout-group-plushies = Плюшевые игрушки
+rmc-loadout-group-recreational = Для отдыха
+rmc-loadout-group-melee-weapons = Ближнее оружие
+rmc-loadout-group-weapons = Оружие
+rmc-loadout-group-canned-drinks = Напитки в банках
+rmc-loadout-group-flasks = Фляги
+rmc-loadout-group-smokables = Курительные принадлежности
+rmc-loadout-group-miscellaneous = Разное
+rmc-loadout-group-foods-sweets = Еда (сладости)
+rmc-loadout-group-foods-packaged = Еда (упакованная)
+rmc-loadout-group-foods-healthy = Еда (полезная)
+rmc-loadout-group-role-specific = Для конкретной роли
+rmc-loadout-group-pins = Значки
+rmc-loadout-group-synth = Поколения синтетов
+rmc-loadout-group-watches = Часы
+rmc-loadout-group-civilian = Только гражданские (ограничено)
+
+rmc-loadout-group-role-specific-ID = Командир (ID)
+rmc-loadout-group-role-specific-weapon = Командир (табельное оружие)
+rmc-loadout-group-provost-role-specific-outerwear = Инспектор провоста (заполненная верхняя одежда)
+rmc-loadout-group-synthetic-uniform = Униформа синтетов
+rmc-loadout-group-synthetic-accessories = Аксессуары униформы синтетов
+rmc-loadout-group-synthetic-glasses = Очки синтетов
+rmc-loadout-group-synthetic-shoes = Обувь синтетов
+rmc-loadout-group-synthetic-headwear = Головные уборы синтетов
+rmc-loadout-group-synthetic-suits = Верхняя одежда синтетов
+
+loadout-group-points-insufficient = У вас недостаточно очков!

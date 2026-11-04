@@ -1,0 +1,16 @@
+ent-RMCUniversalRecorderBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-RMCUniversalRecorderEmpty = универсальный диктофон
+    .desc = Устройство, способное записывать диалоги на магнитную ленту и воспроизводить их. Хорошо подходит для апелляций или показаний свидетелей.
+    .suffix = Пустой
+ent-RMCUniversalRecorder = универсальный диктофон
+    .desc = Устройство, способное записывать диалоги на магнитную ленту и воспроизводить их. Хорошо подходит для апелляций или показаний свидетелей.
+ent-RMCUniversalRecorderTapeBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-RMCUniversalRecorderTape = казённая лента
+    .desc = Магнитная лента, вмещающая до двадцати минут записи на каждой стороне.
+ent-RMCBoxRegulationTapesEmpty = коробка казённых лент (x5)
+    .desc = Коробка казённых лент для универсальных диктофонов.
+ent-RMCBoxRegulationTapes = { ent-RMCBoxRegulationTapesEmpty }
+    .desc = { ent-RMCBoxRegulationTapesEmpty.desc }
+    .suffix = Заполнена

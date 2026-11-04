@@ -1,0 +1,15 @@
+ent-CMSpawnPointSurvivor = точка появления выжившего
+    .desc = { ent-CMSpawnPointJobBase.desc }
+    .suffix = Спавн профессии, Основной
+ent-CMGuidebookRoleSurvivor = Выживший
+    .desc = { ent-CMGuidebookRole.desc }
+ent-RMCSurvivorPresetNoGun = набор колониста без оружия
+    .desc = { "" }
+ent-RMCSurvivorPresetCivilian = набор гражданского колониста
+    .desc = { ent-RMCSurvivorPresetNoGun.desc }
+ent-RMCSurvivorPresetCivilianRareItem = набор гражданского колониста с редким предметом
+    .desc = { "" }
+ent-RMCSurvivorPresetCivilianOutfits = набор гражданского колониста со случайной одеждой
+    .desc = { ent-RMCSurvivorPresetCivilianRareItem.desc }
+ent-RMCRandomHumanoidSurvivorCivilian = роль призрака: гражданский колонист
+    .desc = { ent-MarkerBase.desc }

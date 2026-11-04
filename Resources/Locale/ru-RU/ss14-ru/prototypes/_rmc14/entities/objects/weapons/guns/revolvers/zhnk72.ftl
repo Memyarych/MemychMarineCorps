@@ -1,0 +1,13 @@
+ent-RMCWeaponRevolverZHNK72 = револьвер ZHNK-72
+    .desc = ZHNK-72 — револьвер разработки СПН. ZHNK-72 используется вооружёнными силами СПН в полицейской роли, а также ограниченно — в руках старших сержантов.
+ent-RMCWeaponRevolverZHNK72Empty = { ent-RMCWeaponRevolverZHNK72 }
+    .desc = { ent-RMCWeaponRevolverZHNK72.desc }
+    .suffix = Пуст
+ent-RMCBaseSpeedLoaderZHNK72 = ускоритель заряжания (7,62 мм)
+    .desc = { ent-BaseItem.desc }
+ent-RMCSpeedLoaderZHNK72 = ускоритель заряжания ZHNK-72 (7,62 мм)
+    .desc = Ускоритель заряжания для револьвера.
+ent-RMCCartridgeRevolverZHNK72 = патрон (7,62 мм)
+    .desc = { ent-CMCartridgePistolBase.desc }
+ent-RMCBulletRevolverZHNK72 = пуля (7,62 мм)
+    .desc = { ent-CMBulletBase.desc }

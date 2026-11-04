@@ -1,0 +1,17 @@
+ent-RMCLightTubeBase = { ent-RMCLightBulbBase }
+    .desc = { ent-RMCLightBulbBase.desc }
+ent-RMCLightTube = люминесцентная лампа
+    .desc = Запасная люминесцентная лампа.
+    .suffix = Тёплая
+ent-RMCLightTubeBlue = { ent-RMCLightTube }
+    .desc = { ent-RMCLightTube.desc }
+    .suffix = Синяя
+ent-RMCLightTubeWarm = { ent-RMCLightTube }
+    .desc = { ent-RMCLightTube.desc }
+    .suffix = Оранжевая
+ent-RMCLightTubeRed = { ent-RMCLightTube }
+    .desc = { ent-RMCLightTube.desc }
+    .suffix = Красная
+ent-RMCLightTubeBroken = люминесцентная лампа
+    .desc = Запасная люминесцентная лампа.
+    .suffix = Сломанная

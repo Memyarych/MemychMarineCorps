@@ -1,0 +1,12 @@
+ent-RMCWeaponFL3Flamer = огнемёт Flammenwerfer 3, тяжёлая огнемётная установка
+    .desc = Тяжёлая промышленная огнемётная установка, производимая корпорацией Weston, а позднее Weston-Yamada. Часто встречается в миссиях по расчистке растительности на колониях фронтира; обычно в бою не встречается, но опустошительна при применении.
+ent-RMCWeaponFL3FlamerPVE = { ent-RMCWeaponFL3Flamer }
+    .desc = { ent-RMCWeaponFL3Flamer.desc }
+    .suffix = PVE
+ent-RMCWeaponFL3FlamerWhiteout = { ent-RMCWeaponFL3Flamer }
+    .desc = { ent-RMCWeaponFL3Flamer.desc }
+    .suffix = Whiteout
+ent-RMCTankFlamerFL3 = тяжёлый баллон огнемёта FW3
+    .desc = Тяжёлый баллон высокой ёмкости, используемый тяжёлой огнемётной установкой Flammenwerfer 3. На этом — синий термостойкий логотип Weston-Yamada.
+ent-RMCTankFlamerFL3Whiteout = тяжёлый баллон огнемёта FW3 (EX)
+    .desc = Тяжёлый топливный бак с ультрагустым нафталиновым топливом типа EX — липкой горючей жидкой химией, которая горит так жарко, что прожигает большинство огнестойких материалов; используется тяжёлой огнемётной установкой Flammenwerfer 3. На нём — синий термостойкий логотип Weston-Yamada. Обращаться осторожно.

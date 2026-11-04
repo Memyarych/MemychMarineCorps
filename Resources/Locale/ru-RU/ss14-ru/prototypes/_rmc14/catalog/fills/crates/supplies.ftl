@@ -1,0 +1,12 @@
+ent-RMCCrateSupplyInternals = ящик кислородного снаряжения (x3 маски, x3 баллона)
+    .desc = { ent-RMCCrateSupply.desc }
+ent-RMCCrateSupplyEvacuation = аварийное снаряжение (x2 ящика для инструментов, x2 сигнальных жилета, x5 кислородных баллонов, x5 масок)
+    .desc = { ent-RMCCrateSupply.desc }
+ent-RMCCrateSuppliesBoxes = картонные листы (x50)
+    .desc = { ent-RMCCrateSupply.desc }
+ent-RMCCrateSupplyJanitor = разные уборочные принадлежности
+    .desc = { ent-RMCCrateSupply.desc }
+ent-RMCCrateSuppliesCrayons = коробки мелков
+    .desc = { ent-RMCCrateSupply.desc }
+ent-RMCCrateAegisLobby = ящик оборудования отслеживания AEGIS (x3 пинпоинтера, x1 брошюра)
+    .desc = Ящик снабжения, содержащий оборудование отслеживания ID AEGIS и документацию.

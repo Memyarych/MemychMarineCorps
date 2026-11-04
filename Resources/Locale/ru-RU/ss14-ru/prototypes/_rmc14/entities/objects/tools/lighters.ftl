@@ -1,0 +1,14 @@
+ent-RMCLighterBase = { ent-FlippoLighter }
+    .desc = { ent-FlippoLighter.desc }
+ent-RMCLighterCheapBase = { ent-CheapLighter }
+    .desc = { ent-CheapLighter.desc }
+ent-RMCZippo = зажигалка Zippo
+    .desc = Шикарная стальная зажигалка Zippo. Зажигай со стилем.
+ent-RMCZippoExec = исполнительская зажигалка Zippo Ве-Я
+    .desc = Примечательная зажигалка Zippo, украшенная в чёрно-золотых тонах компании.
+ent-RMCZippoGold = золотая зажигалка Zippo
+    .desc = Зажигалка Zippo с золотым анодированием. Помпезно, но она определённо выделяется.
+ent-RMCLighter = дешёвая зажигалка
+    .desc = Зажигалка дешевле некуда.
+ent-RMCLighterSPP = зажигалка СПН
+    .desc = Грязная стальная промышленная зажигалка в индустриальном стиле, похожая на Zippo.

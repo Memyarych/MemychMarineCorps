@@ -1,0 +1,9 @@
+rmc-bullet-box-amount = Содержит { $amount } патронов.
+rmc-bullet-box-used-in = Используется в: { $vehicle }
+rmc-bullet-box-wrong-rounds = Это не те же патроны. Лучше не смешивать.
+rmc-bullet-box-box-empty = В коробке не осталось патронов, чтобы отдать.
+rmc-bullet-box-box-full = В коробке больше нет места для патронов.
+rmc-bullet-box-mag-empty = В магазине не осталось патронов, чтобы отдать.
+rmc-bullet-box-mag-full = В магазине больше нет места, чтобы принять патроны.
+rmc-bullet-box-transfer-done = Вы передали { $amount } патронов в { THE($used) }
+rmc-bullet-box-transferto = Заполнить коробку

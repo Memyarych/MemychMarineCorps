@@ -1,0 +1,14 @@
+ent-RMCBarricadeUpgradeBase = { "" }
+    .desc = { "" }
+ent-RMCExplosiveUpgrade = композитное улучшение
+    .desc = { ent-RMCBarricadeUpgradeBase.desc }
+ent-RMCBiohazardUpgrade = улучшение от биоопасности
+    .desc = { ent-RMCBarricadeUpgradeBase.desc }
+ent-RMCBruteUpgrade = усиленное улучшение
+    .desc = { ent-RMCBarricadeUpgradeBase.desc }
+ent-RMCExplosiveUpgradePlasteel = { ent-RMCExplosiveUpgrade }
+    .desc = { ent-RMCExplosiveUpgrade.desc }
+ent-RMCBiohazardUpgradePlasteel = { ent-RMCBiohazardUpgrade }
+    .desc = { ent-RMCBiohazardUpgrade.desc }
+ent-RMCBruteUpgradePlasteel = { ent-RMCBruteUpgrade }
+    .desc = { ent-RMCBruteUpgrade.desc }

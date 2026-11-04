@@ -1,0 +1,10 @@
+ent-CMMemorialBase = { ent-Memorial }
+    .desc = { ent-Memorial.desc }
+ent-CMMemorial = плита победы
+    .desc = Корабельный мемориал, посвящённый триумфам морпехов и павшим морпехам этого корабля. Слева в плиту высечены великие истории побед. Справа — список знаменитых морпехов, павших в бою на службе морпехам.
+ent-CMMemorialMaintainers = плита памяти
+    .desc = Мемориал всем членам команды мейнтейнеров, ушедшим с работы над RMC-14. Имён наставников здесь нет.
+ent-CMMemorialAdmins = { ent-CMMemorialMaintainers }
+    .desc = Мемориал всем админам и модераторам, ушедшим из RMC-14. Имён наставников здесь нет.
+ent-RMCMemorialWall = { ent-CMMemorial }
+    .desc = { ent-CMMemorial.desc }

@@ -1,0 +1,10 @@
+ent-RMCCrateBoxShellsShotgunSlugs = Ящик патронов (100x пулевые патроны)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxShellsShotgunBuckshot = Ящик патронов (100x патроны с картечью)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxShellsShotgunFlechette = Ящик патронов (100x патроны с флешеттами)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxShellsShotgunBreaching = Ящик патронов (120x подрывные патроны)
+    .desc = { ent-RMCCrateAmmo.desc }
+ent-RMCCrateBoxAmmo458 = Ящик патронов .458 (.458 x 300)
+    .desc = { ent-RMCCrateAmmo.desc }

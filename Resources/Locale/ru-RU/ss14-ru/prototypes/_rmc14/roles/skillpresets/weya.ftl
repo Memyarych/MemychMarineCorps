@@ -1,0 +1,10 @@
+ent-RMCSkillPresetSurvivorWeYaManager = Выживший менеджер Ве-Я
+    .desc = { ent-RMCSkillPresetSurvivor.desc }
+ent-RMCSkillPresetSurvivorGoon = Выживший охранник
+    .desc = { ent-RMCSkillPresetSurvivor.desc }
+ent-RMCSkillPresetSurvivorGoonMedic = Выживший медик-охранник
+    .desc = { ent-RMCSkillPresetSurvivorGoon.desc }
+ent-RMCSkillPresetSurvivorGoonTechnician = Выживший техник-охранник
+    .desc = { ent-RMCSkillPresetSurvivorGoon.desc }
+ent-RMCSkillPresetSurvivorGoonLead = Выживший лидер охранников
+    .desc = { ent-RMCSkillPresetSurvivorGoon.desc }

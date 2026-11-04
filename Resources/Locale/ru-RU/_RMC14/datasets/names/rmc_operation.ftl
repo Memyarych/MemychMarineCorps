@@ -1,0 +1,15 @@
+names-rmc-operation-dataset-1 = Обходной путь
+names-rmc-operation-dataset-2 = Учения
+names-rmc-operation-dataset-3 = Инспекция
+names-rmc-operation-dataset-4 = Расследование
+names-rmc-operation-dataset-5 = Манёвр
+names-rmc-operation-dataset-6 = Миссия
+names-rmc-operation-dataset-7 = Операция
+names-rmc-operation-dataset-8 = Патруль
+names-rmc-operation-dataset-9 = Миротворческая миссия
+names-rmc-operation-dataset-10 = Программа
+names-rmc-operation-dataset-11 = Проект
+names-rmc-operation-dataset-12 = Разведка
+names-rmc-operation-dataset-13 = Боевой вылет
+names-rmc-operation-dataset-14 = Программа стратегического реагирования
+names-rmc-operation-dataset-15 = Оперативная группа

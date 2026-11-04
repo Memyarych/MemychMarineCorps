@@ -1,0 +1,9 @@
+ent-RMCWeaponBoltActionRifle = болтовая охотничья винтовка Basira-Armstrong
+    .desc = Названная в честь своих эксцентричных создателей, Basira-Armstrong — дешёвая, но надёжная гражданская болтовая винтовка, часто встречающаяся во внешних колониях. Несмотря на юридически предписанную ограниченную ёмкость магазина, её лёгкий вес и легендарная точность делают её популярной среди охотников и соревновательных стрелков.
+    .suffix = Заполнена
+ent-RMCMagazineRifleHunting = магазин Basira-Armstrong (6,5 мм)
+    .desc = { ent-CMMagazineRifleBase.desc }
+ent-RMCCartridgeBoltActionRifle = патрон (5,56x45)
+    .desc = Патрон для охотничьей винтовки Basira-Armstrong. Соответствует ограничению в 15 патронов для гражданских охотничьих винтовок.
+ent-RMCBulletRifleHunting = { ent-BulletRifle10x24mm }
+    .desc = { ent-BulletRifle10x24mm.desc }

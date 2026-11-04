@@ -1,0 +1,11 @@
+ent-CMHypospray = гипоспрей
+    .desc = Гипоспрей Avant Biomedical — стерильный автоинъектор с воздушной иглой для быстрого введения лекарств пациентам.
+ent-CMHyposprayWithVial = { ent-CMHypospray }
+    .desc = { ent-CMHypospray.desc }
+    .suffix = Флакон
+ent-CMHyposprayFilledTricord = { ent-CMHyposprayWithVial }
+    .desc = { ent-CMHyposprayWithVial.desc }
+    .suffix = Заполнен, Трикордразин
+ent-RMCHyposprayFilledEpi = { ent-CMHypospray }
+    .desc = { ent-CMHypospray.desc }
+    .suffix = Заполнен, Эпинефрин

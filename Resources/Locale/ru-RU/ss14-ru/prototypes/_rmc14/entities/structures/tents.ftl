@@ -1,0 +1,13 @@
+ent-RMCPropTentBase = палатка
+    .desc = { "" }
+ent-RMCPropTentSmall = малая палатка
+    .desc = { ent-RMCPropTentBase.desc }
+ent-RMCPropTentMedical = медицинская палатка
+    .desc = { ent-RMCPropTentBase.desc }
+ent-RMCPropTentCommand = командная палатка
+    .desc = { ent-RMCPropTentBase.desc }
+ent-RMCPropTentSupply = палатка снабжения
+    .desc = { ent-RMCPropTentBase.desc }
+ent-RMCPropTentSmallBack = малая палатка
+    .desc = { ent-RMCPropTentBase.desc }
+    .suffix = Задняя

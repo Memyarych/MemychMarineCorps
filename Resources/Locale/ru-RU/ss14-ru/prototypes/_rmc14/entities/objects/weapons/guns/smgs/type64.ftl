@@ -1,0 +1,14 @@
+ent-RMCWeaponSMGType64 = пистолет-пулемёт Type 64
+    .desc = Стандартный пистолет-пулемёт СПН с необычным спиральным магазином на 64 патрона; у него высокая скорострельность, но при этом необычно высокая точность. Этот экземпляр громоздкий и неэргономичный, что указывает на гражданское использование или экспортную модель.
+ent-RMCMagazineSMGType64 = магазин Type 64 (10x20 мм)
+    .desc = { ent-CMMagazineRifleBase.desc }
+ent-RMCMagazineSMGType64Rubber = магазин резиновых патронов Type 64 (10x20 мм)
+    .desc = { ent-RMCMagazineSMGType64.desc }
+ent-RMCCartridgeType64 = патрон (10x20 мм)
+    .desc = { ent-CMCartridgeSMGBase.desc }
+ent-RMCCartridgeType64Rubber = патрон (10x20 мм)
+    .desc = { ent-CMCartridgeSMGBase.desc }
+ent-RMCBulletType64 = { ent-RMCBaseBullet }
+    .desc = { ent-RMCBaseBullet.desc }
+ent-RMCBulletType64Rubber = { ent-Bullet10x20mmRubber }
+    .desc = { ent-Bullet10x20mmRubber.desc }

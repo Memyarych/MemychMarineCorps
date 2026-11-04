@@ -1,0 +1,14 @@
+ent-CMAlamoDoor = люк экипажа «Аламо»
+    .desc = { ent-RMCDropshipDoorBase.desc }
+ent-CMAlamoCockpit = { ent-RMCDropshipCockpitBase }
+    .desc = { ent-RMCDropshipCockpitBase.desc }
+    .suffix = Alamo
+ent-CMAlamoDoorAft = грузовая дверь «Аламо»
+    .desc = { ent-RMCDropshipDoorAftBase.desc }
+    .suffix = { ent-RMCDropshipDoorAftBase.suffix }
+ent-CMAlamoDoorPort = люк экипажа «Аламо»
+    .desc = { ent-RMCDropshipDoorPortBase.desc }
+    .suffix = { ent-RMCDropshipDoorPortBase.suffix }
+ent-CMAlamoDoorStarboard = люк экипажа «Аламо»
+    .desc = { ent-RMCDropshipDoorStarboardBase.desc }
+    .suffix = { ent-RMCDropshipDoorStarboardBase.suffix }

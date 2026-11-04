@@ -1,0 +1,15 @@
+ent-RMCHeadCapTSEPA = кепка TSEPA
+    .desc = Кепка для констеблей TSEPA. «Шо тут у нас?»
+ent-RMCHeadBeretTSE = берет ИТС
+    .desc = { ent-CMHeadBeret.desc }
+ent-RMCHeadBeretTSEPA = берет TSEPA
+    .desc = { ent-CMHeadBeret.desc }
+ent-RMCHeadCapTSEPAPeaked = фуражка TSEPA
+    .desc = Тёмная фуражка с выгравированной внушительной серебряно-красной эмблемой TSEPA в форме цветка сакуры. «Империя и Честь, Связанные Долгом. Долг вне границ, Справедливость во всех мирах».
+    .suffix = Серебро и красный
+ent-RMCHeadCapTSEPAPeakedGoldSilver = { ent-RMCHeadCapTSEPAPeaked }
+    .desc = Тёмная фуражка с выгравированной внушительной серебряно-золотой эмблемой TSEPA в форме цветка сакуры. «Империя и Честь, Связанные Долгом. Долг вне границ, Справедливость во всех мирах».
+    .suffix = Серебро и золото
+ent-RMCHeadCapTSEPAPeakedGold = { ent-RMCHeadCapTSEPAPeaked }
+    .desc = Тёмная фуражка с выгравированной внушительной красно-золотой эмблемой TSEPA в форме цветка сакуры, чаще используемая высокопоставленными констеблями и персоналом TSEPA. «Империя и Честь, Связанные Долгом. Долг вне границ, Справедливость во всех мирах».
+    .suffix = Золото

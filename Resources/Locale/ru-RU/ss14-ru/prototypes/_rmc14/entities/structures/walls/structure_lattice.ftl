@@ -1,0 +1,12 @@
+ent-RMCStructureLattice = строительная решётка
+    .desc = Как арматура, но в космосе.
+ent-RMCStructureLatticeB = { ent-RMCStructureLattice }
+    .desc = { ent-RMCStructureLattice.desc }
+ent-RMCStructureLatticeC = { ent-RMCStructureLattice }
+    .desc = { ent-RMCStructureLattice.desc }
+ent-RMCStructureLatticeDouble = строительная решётка
+    .desc = Как арматура, но в космосе.
+ent-RMCStructureLatticeDoubleB = { ent-RMCStructureLatticeDouble }
+    .desc = { ent-RMCStructureLatticeDouble.desc }
+ent-RMCStructureLatticeDoubleC = { ent-RMCStructureLatticeDouble }
+    .desc = { ent-RMCStructureLatticeDouble.desc }

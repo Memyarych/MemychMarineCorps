@@ -1,0 +1,13 @@
+ent-RMCWeaponRevolver38Magnum = револьвер .38 Magnum
+    .desc = Изящный револьвер .38. Вечная классика — от древности до будущего. Эта конкретная модель известна своей дикой неточностью, но при этом крайне смертоносна.
+ent-RMCWeaponRevolver38Empty = { ent-RMCWeaponRevolver38Magnum }
+    .desc = { ent-RMCWeaponRevolver38Magnum.desc }
+    .suffix = Пуст
+ent-RMCBaseSpeedLoader38 = ускоритель заряжания (.38)
+    .desc = { ent-BaseItem.desc }
+ent-RMCSpeedLoader38 = ускоритель заряжания (.38)
+    .desc = Ускоритель заряжания для револьвера.
+ent-RMCCartridgeRevolver38 = патрон (.38)
+    .desc = { ent-CMCartridgePistolBase.desc }
+ent-RMCBulletRevolver38 = пуля (.38)
+    .desc = { ent-CMBulletBase.desc }

@@ -1,0 +1,17 @@
+ent-FactionHalcyon = { "" }
+    .desc = { "" }
+ent-RMCIDSPP = жетон СПН
+    .desc = Солдатский жетон.
+ent-RMCIDSPPCard = ID-карта СПН
+    .desc = ID-карта офицера СПН.
+ent-RMCIDSPPHidden = { ent-RMCIDCardStandardDogtagHidden }
+    .desc = { ent-RMCIDCardStandardDogtagHidden.desc }
+ent-RMCIDSPPRifleman = { ent-RMCIDSPP }
+    .desc = { ent-RMCIDSPP.desc }
+ent-RMCIDSPPRiflemanHidden = { ent-RMCIDCardStandardDogtagHidden }
+    .desc = { ent-RMCIDCardStandardDogtagHidden.desc }
+ent-RMCIDCardPCG = идентификационный голо-бейдж PCG
+    .desc = Стандартный голо-бейдж для персонала Народной гражданской жандармерии СПН. Отображает звание и принадлежность офицера.
+ent-RMCIDCardHalcyon = корпоративный голо-бейдж
+    .desc = Корпоративный голо-бейдж. Уникального корпоративного оранжево-чёрного цвета.
+    .suffix = Halcyon

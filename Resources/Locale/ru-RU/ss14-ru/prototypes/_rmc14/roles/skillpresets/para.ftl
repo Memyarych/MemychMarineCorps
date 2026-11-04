@@ -1,0 +1,14 @@
+ent-RMCSkillPresetParamarine = Королевский параморпех-стрелок
+    .desc = { "" }
+ent-RMCSkillPresetParaPilot = Королевский параморпех-пилот
+    .desc = { ent-RMCSkillPresetParamarine.desc }
+ent-RMCSkillPresetParaEngineer = Королевский параморпех-инженер
+    .desc = { ent-RMCSkillPresetParamarine.desc }
+ent-RMCSkillPresetParaMedic = Королевский параморпех-медик
+    .desc = { ent-RMCSkillPresetParamarine.desc }
+ent-RMCSkillPresetParaLeader = Королевский параморпех — лидер отряда
+    .desc = { ent-RMCSkillPresetParamarine.desc }
+ent-RMCSkillPresetParaSynth = Королевский параморпех-синтетик
+    .desc = { "" }
+ent-RMCSkillPresetParaCommander = Королевский параморпех-командир
+    .desc = { ent-RMCSkillPresetParamarine.desc }

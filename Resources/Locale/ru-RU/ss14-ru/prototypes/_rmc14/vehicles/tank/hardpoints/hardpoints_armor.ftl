@@ -1,0 +1,10 @@
+ent-VehicleTankArmorBallistic = баллистическая бронеплита
+    .desc = Баллистическая бронеплита для танка.
+ent-VehicleTankArmorConcussive = контузионная бронеплита
+    .desc = Контузионная бронеплита для танка.
+ent-VehicleTankArmorCaustic = едкая бронеплита
+    .desc = Едкая бронеплита для танка.
+ent-VehicleTankArmorPaladin = бронеплита «Паладин»
+    .desc = Бронеплита «Паладин» для танка.
+ent-VehicleTankSnowplow = танковый снегоочиститель
+    .desc = Усиленный отвал для снегоочистки для танка.

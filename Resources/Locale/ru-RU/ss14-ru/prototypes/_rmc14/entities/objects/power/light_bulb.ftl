@@ -1,0 +1,14 @@
+ent-RMCLightBulbBase = { ent-BaseItem }
+    .desc = { ent-BaseItem.desc }
+ent-RMCLightBulb = лампочка
+    .desc = Запасная лампочка.
+    .suffix = Тёплая
+ent-RMCLightBulbBlue = { ent-RMCLightBulb }
+    .desc = { ent-RMCLightBulb.desc }
+    .suffix = Синяя
+ent-RMCLightBulbRed = { ent-RMCLightBulb }
+    .desc = { ent-RMCLightBulb.desc }
+    .suffix = Красная
+ent-RMCLightBulbBroken = лампочка
+    .desc = Запасная лампочка.
+    .suffix = Сломанная

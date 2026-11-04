@@ -1,0 +1,13 @@
+ent-RMCExplosiveClaymoreMine = противопехотная мина M20 «Клеймор»
+    .desc = M20 «Клеймор» — противопехотная мина направленного действия с датчиком приближения, разработанная Aegis Armaments для использования КМП ООН. Мина срабатывает от движения на пространстве непосредственно перед ней. При подрыве разбрасывает шрапнель вперёд конусом в 120 градусов. На передней стороне выдавлены слова «FRONT TOWARD ENEMY».
+ent-RMCShrapnel = шрапнель
+    .desc = { ent-RMCBaseAirburstRound.desc }
+ent-RMCExplosiveClaymoreMineArmed = { ent-RMCExplosiveClaymoreMine }
+    .desc = { ent-RMCExplosiveClaymoreMine.desc }
+    .suffix = Взведена, без IFF
+ent-RMCExplosiveClaymoreMineArmedUNMC = { ent-RMCExplosiveClaymoreMineArmed }
+    .desc = { ent-RMCExplosiveClaymoreMineArmed.desc }
+    .suffix = Взведена, КМП ООН
+ent-RMCExplosiveClaymoreMineArmedCLF = { ent-RMCExplosiveClaymoreMineArmed }
+    .desc = { ent-RMCExplosiveClaymoreMineArmed.desc }
+    .suffix = Взведена, КОФ

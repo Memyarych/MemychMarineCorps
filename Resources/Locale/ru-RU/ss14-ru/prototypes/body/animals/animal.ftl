@@ -1,0 +1,10 @@
+ent-OrganAnimalMetabolizer = { "" }
+    .desc = { "" }
+ent-OrganAnimal = { ent-OrganBaseOrganic }
+    .desc = { ent-OrganBaseOrganic.desc }
+    .suffix = Животное
+ent-OrganAnimalInternal = { ent-OrganAnimal }
+    .desc = { ent-OrganAnimal.desc }
+    .suffix = { ent-OrganAnimal.suffix }
+ent-BaseMobAnimal = { "" }
+    .desc = { "" }

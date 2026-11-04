@@ -1,0 +1,15 @@
+ent-RMCMapInsertHybrisaBase = { ent-RMCMapInsertBase }
+    .desc = { ent-RMCMapInsertBase.desc }
+    .suffix = Инсерт Hybrisa
+ent-RMCMapInsertHybrisaCLFSpaceport = Космопорт КОФ
+    .desc = { ent-RMCMapInsertHybrisaBase.desc }
+    .suffix = Инсерт Hybrisa
+ent-RMCMapInsertHybrisaTSEAirbase = Авиабаза ИТС
+    .desc = { ent-RMCMapInsertHybrisaBase.desc }
+    .suffix = Инсерт Hybrisa
+ent-RMCMapInsertHybrisaTSEAirbaseIntact = Авиабаза ИТС (целая)
+    .desc = { ent-RMCMapInsertHybrisaBase.desc }
+    .suffix = Инсерт Hybrisa
+ent-RMCMapInsertHybrisaSurvivorSpawns = Точки спавна выживших
+    .desc = { ent-RMCMapInsertHybrisaBase.desc }
+    .suffix = Инсерт Hybrisa

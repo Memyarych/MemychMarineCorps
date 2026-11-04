@@ -1,0 +1,11 @@
+ent-CMSurgicalCase = хирургический набор
+    .desc = Это медицинский набор для хранения базовых хирургических инструментов.
+ent-CMSurgicalCaseFilled = { ent-CMSurgicalCase }
+    .desc = { ent-CMSurgicalCase.desc }
+    .suffix = Заполнен
+ent-RMCSurgicalCaseRCM = хирургический набор RCM
+    .desc = Улучшенный хирургический набор, используемый Royal Crown Marines, вмещающий больше инструментов.
+    .suffix = RCM
+ent-RMCSurgicalCaseRCMFilled = { ent-RMCSurgicalCaseRCM }
+    .desc = { ent-RMCSurgicalCaseRCM.desc }
+    .suffix = Заполнен

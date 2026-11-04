@@ -1,0 +1,6 @@
+ent-BaseSign = base sign
+    .desc = { "" }
+ent-BaseSignIndestructible = { ent-BaseWallmount }
+    .desc = { ent-BaseWallmount.desc }
+ent-BaseSignWeak = { ent-BaseSignIndestructible }
+    .desc = { ent-BaseSignIndestructible.desc }

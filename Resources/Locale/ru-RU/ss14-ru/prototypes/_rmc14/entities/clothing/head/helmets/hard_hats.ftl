@@ -1,0 +1,14 @@
+ent-RMCHardHat = каска
+    .desc = Элемент головного убора, используемый в опасных рабочих условиях для защиты головы. Поставляется со встроенным фонарём.
+ent-RMCHardhatRed = шлем пожарного
+    .desc = { ent-RMCHardHat.desc }
+ent-RMCHardhatOrange = { ent-RMCHardHat }
+    .desc = { ent-RMCHardHat.desc }
+ent-RMCHardhatBlue = { ent-RMCHardHat }
+    .desc = { ent-RMCHardHat.desc }
+ent-RMCHardhatWhite = { ent-RMCHardHat }
+    .desc = { ent-RMCHardHat.desc }
+ent-RMCHardhatWhiteAlt = шахтёрский шлем Chǎnyè Combine
+    .desc = { ent-RMCHardHat.desc }
+ent-RMCHardhatRedTMCC = каска Tartarus-Mining
+    .desc = { ent-RMCHardhatRed.desc }

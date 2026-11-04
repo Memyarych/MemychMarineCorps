@@ -1,0 +1,13 @@
+ent-RMCPropTrashFull = полный мешок для мусора
+    .desc = Это прочный чёрный полимерный мешок. Полон старого мусора — тебе не захочется к нему прикасаться.
+ent-RMCPropBananaPeel = банановая кожура
+    .desc = Кожура от банана.
+    .suffix = RMC
+ent-RMCPropCuppaJoeLid = крышка от кофе The Daily Grind
+    .desc = Крышка от одноразового кофейного стаканчика. Сделана из пластика и имеет небольшое отверстие для питья.
+ent-RMCPropCuppaJoeNoLid = пустой кофейный стаканчик The Daily Grind
+    .desc = Пустой одноразовый кофейный стаканчик от The Daily Grind. На дне есть небольшое отверстие, так что для жидкостей он больше не годится.
+ent-RMCPropCuppaJoeNoLidStack = стопка пустых стаканчиков The Daily Grind
+    .desc = Стопка пустых одноразовых кофейных стаканчиков от The Daily Grind.
+ent-RMCPropCuppaJoeLidStack = стопка крышек от кофе The Daily Grind
+    .desc = Стопка крышек от кофейных стаканчиков The Daily Grind.

@@ -1,0 +1,12 @@
+ent-RMCSkillPresetTyrargoTrooper = Стрелок КМП ООН «Тирарго»
+    .desc = { ent-RMCSkillPresetSurvivor.desc }
+ent-RMCSkillPresetEngineeringTechnician = Инженерный техник КМП ООН «Тирарго»
+    .desc = { ent-RMCSkillPresetTyrargoTrooper.desc }
+ent-RMCSkillPresetTyrargoMedicalTechnician = Медицинский техник КМП ООН «Тирарго»
+    .desc = { ent-RMCSkillPresetTyrargoTrooper.desc }
+ent-RMCSkillPresetTyrargoMarksman = Снайпер КМП ООН «Тирарго»
+    .desc = { ent-RMCSkillPresetTyrargoTrooper.desc }
+ent-RMCSkillPresetTyrargoHeavyGunner = Тяжёлый пулемётчик КМП ООН «Тирарго»
+    .desc = { ent-RMCSkillPresetTyrargoTrooper.desc }
+ent-RMCSkillPresetTyrargoSquadLeader = Лидер отряда КМП ООН «Тирарго»
+    .desc = { ent-RMCSkillPresetTyrargoTrooper.desc }
