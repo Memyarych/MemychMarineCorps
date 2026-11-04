@@ -1,0 +1,14 @@
+ent-RMCWeaponPistolM77 = боевой пистолет M77
+    .desc = Стандартное огнестрельное оружие КМП ООН. Также встречается в руках команд ЧВК Ве-Я. Стреляет 9-мм бронебойными патронами и способен вести очередь по 3 выстрела.
+ent-RMCWeaponPistolM77Empty = { ent-RMCWeaponPistolM77 }
+    .desc = { ent-RMCWeaponPistolM77.desc }
+    .suffix = Пуст
+ent-RMCWeaponPistolM77Survivor = { ent-RMCWeaponPistolM77 }
+    .desc = { ent-RMCWeaponPistolM77.desc }
+    .suffix = Выживший
+ent-CMMagazinePistolM77AP = магазин ББ M77 (9 мм)
+    .desc = { ent-CMBaseMagazinePistol.desc }
+ent-CMBulletPistolM77AP = пуля (9 мм ББ)
+    .desc = { ent-CMBulletBase.desc }
+ent-CMCartridgePistolM77AP = патрон (9 мм ББ)
+    .desc = { ent-CMCartridgePistolBase.desc }

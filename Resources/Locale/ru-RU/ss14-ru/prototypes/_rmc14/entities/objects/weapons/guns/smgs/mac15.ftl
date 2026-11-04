@@ -1,0 +1,9 @@
+ent-WeaponSMGMAC15 = пистолет-пулемёт MAC-15
+    .desc = Дешёвая, надёжная конструкция и производство делают этот повсеместный пистолет-пулемёт полезным, несмотря на возраст.
+    .suffix = Заполнен
+ent-RMCMagazineSMGMAC15 = магазин MAC-15 (9 мм)
+    .desc = Магазин 9 мм для MAC-15.
+ent-RMCMagazineSMGMAC15Ext = удлинённый магазин MAC-15 (9 мм)
+    .desc = { ent-RMCMagazineSMGMAC15.desc }
+ent-RMCCartridge9mmSMGMAC15 = { ent-CMCartridge9mmSMG }
+    .desc = Патрон 9 мм для пистолета-пулемёта MAC-15.

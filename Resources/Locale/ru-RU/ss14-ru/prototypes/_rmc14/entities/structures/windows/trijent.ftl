@@ -1,0 +1,12 @@
+ent-RMCWindowFrameChigusa = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }
+ent-RMCWindowChigusa = усиленное окно
+    .desc = Стеклянное окно со специальной стержневой матрицей внутри рамки стены. Выглядит довольно прочным. Возможно, потребуется несколько хороших ударов, чтобы разбить его.
+ent-RMCWindowFrameHangar = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }
+ent-RMCWindowHangar = усиленное окно
+    .desc = Стеклянное окно со специальной стержневой матрицей внутри рамки стены. Выглядит довольно прочным. Возможно, потребуется несколько хороших ударов, чтобы разбить его.
+ent-RMCWindowFrameBunker = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }
+ent-RMCWindowBunker = усиленное окно
+    .desc = Стеклянное окно со специальной стержневой матрицей внутри рамки стены. Выглядит довольно прочным. Возможно, потребуется несколько хороших ударов, чтобы разбить его.

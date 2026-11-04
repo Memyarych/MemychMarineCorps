@@ -1,0 +1,17 @@
+ent-RMCTrainingDummy = тренировочная болванка
+    .desc = Тренировочная болванка, используемая КМП ООН для имитации человеческого тела. На ощупь почти слишком реалистична.
+    .suffix = RMC14
+ent-SpawnRMCTrainingDummy = Спавнер тренировочных болванок RMC
+    .desc = { ent-MarkerBase.desc }
+ent-RMCLockerTrainingDummy = шкаф с тренировочной болванкой
+    .desc = Ультрабезопасный шкаф с тренировочной болванкой. Доступен только главным врачам и старшим сержантским советникам.
+    .suffix = Юг, Пустой
+ent-RMCLockerTrainingDummyFilled = { ent-RMCLockerTrainingDummy }
+    .desc = { ent-RMCLockerTrainingDummy.desc }
+    .suffix = Юг, Заполнен
+ent-RMCLockerTrainingDummyNorth = { ent-RMCLockerTrainingDummy }
+    .desc = { ent-RMCLockerTrainingDummy.desc }
+    .suffix = Север, Пустой
+ent-RMCLockerTrainingDummyNorthFilled = { ent-RMCLockerTrainingDummyNorth }
+    .desc = { ent-RMCLockerTrainingDummyNorth.desc }
+    .suffix = Север, Заполнен

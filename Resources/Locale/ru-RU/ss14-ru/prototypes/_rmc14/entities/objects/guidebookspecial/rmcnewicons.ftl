@@ -1,0 +1,12 @@
+ent-RMCNewIconGuidebookPurple = фиолетовый новый
+    .desc = { ent-BaseItem.desc }
+    .suffix = (GuideBookEntity)
+ent-RMCNewIconGuidebookRed = красный новый
+    .desc = { ent-BaseItem.desc }
+    .suffix = (GuideBookEntity)
+ent-RMCNewIconGuidebookYellow = жёлтый новый
+    .desc = { ent-BaseItem.desc }
+    .suffix = (GuideBookEntity)
+ent-RMCNewIconGuidebookGreen = зелёный новый
+    .desc = { ent-BaseItem.desc }
+    .suffix = (GuideBookEntity)

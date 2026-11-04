@@ -1,0 +1,15 @@
+ent-CMRandomPosterAny = спавнер случайных плакатов
+    .desc = { ent-MarkerBase.desc }
+    .suffix = RMC14, все
+ent-CMRandomPosterUN = спавнер случайных плакатов
+    .desc = { ent-CMRandomPosterAny.desc }
+    .suffix = RMC14, ООН
+ent-CMRandomPosterSPP = спавнер случайных плакатов
+    .desc = { ent-CMRandomPosterAny.desc }
+    .suffix = RMC14, СПН
+ent-RMCRandomPosterWeYa = спавнер случайных плакатов
+    .desc = { ent-CMRandomPosterAny.desc }
+    .suffix = RMC14, Ве-Я
+ent-RMCRandomPosterTSEPA = спавнер случайных плакатов
+    .desc = { ent-CMRandomPosterAny.desc }
+    .suffix = RMC14, TSEPA

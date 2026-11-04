@@ -1,0 +1,12 @@
+ent-PlumpSeeds = пакетик толстых спор
+    .desc = { ent-SeedBase.desc }
+ent-GrassSeeds = пакетик семян травы
+    .desc = { ent-SeedBase.desc }
+ent-WhiteBeetSeeds = пакетик семян белой свёклы
+    .desc = { ent-SeedBase.desc }
+ent-PeanutSeeds = пакетик семян арахиса
+    .desc = { ent-SeedBase.desc }
+ent-SunflowerSeeds = пакетик семян подсолнуха
+    .desc = { ent-SeedBase.desc }
+ent-RMCMangoSeeds = пакетик семян манго
+    .desc = { ent-SeedBase.desc }

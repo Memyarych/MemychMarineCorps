@@ -1,0 +1,14 @@
+ent-WindoorAssembly = каркас раздвижного окна
+    .desc = Оно открывается, оно закрывается, и вы можете смотреть сквозь него!
+ent-WindoorAssemblySecure = каркас раздвижного бронеокна
+    .desc = Оно открывается, оно закрывается, и вы можете смотреть сквозь него! Оно выглядит крепким.
+ent-WindoorAssemblyClockwork = clockwork windoor assembly
+    .desc = It opens, it closes, and you can see through it! This one looks tough.
+ent-WindoorAssemblyPlasma = каркас плазменного раздвижного окна
+    .desc = Оно открывается, оно закрывается, и вы можете смотреть сквозь него! Оно выглядит фиоле-, нет, розовым. Подождите...
+ent-WindoorAssemblySecurePlasma = secure plasma windoor assembly
+    .desc = It opens, it closes, and you can see through it! This one looks strong and pin-, no, purple. Hold on...
+ent-WindoorAssemblyUranium = каркас уранового раздвижного окна
+    .desc = Оно открывается, оно закрывается, и вы можете смотреть сквозь него! Оно выглядит тошнотворно зелёным...
+ent-WindoorAssemblySecureUranium = secure uranium windoor assembly
+    .desc = It opens, it closes, and you can see through it! This one looks strong and radioactive-lime-green!

@@ -1,0 +1,12 @@
+ent-RMCInflatableWallFolded = надувная стена
+    .desc = Сложенная мембрана, которая при активации быстро разворачивается в крупную кубическую форму.
+    .suffix = Полный
+ent-RMCInflatableWallFolded1 = { ent-RMCInflatableWallFolded }
+    .desc = { ent-RMCInflatableWallFolded.desc }
+    .suffix = Один
+ent-RMCInflatableDoorFolded = надувная дверь
+    .desc = Сложенная мембрана, которая при активации быстро разворачивается в простую дверь.
+    .suffix = Полный
+ent-RMCInflatableDoorFolded1 = { ent-RMCInflatableDoorFolded }
+    .desc = { ent-RMCInflatableDoorFolded.desc }
+    .suffix = Один

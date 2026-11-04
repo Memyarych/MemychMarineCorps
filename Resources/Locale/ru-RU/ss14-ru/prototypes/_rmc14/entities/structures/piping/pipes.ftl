@@ -1,0 +1,17 @@
+ent-RMCBasePipe = { "" }
+    .desc = { "" }
+ent-RMCGasPipeHalf = { ent-GasPipeHalf }
+    .desc = { ent-GasPipeHalf.desc }
+    .suffix = RMC, половинная
+ent-RMCGasPipeStraight = { ent-GasPipeStraight }
+    .desc = { ent-GasPipeStraight.desc }
+    .suffix = RMC, прямая
+ent-RMCGasPipeBend = { ent-GasPipeBend }
+    .desc = { ent-GasPipeBend.desc }
+    .suffix = RMC, изгиб
+ent-RMCGasPipeTJunction = { ent-GasPipeTJunction }
+    .desc = { ent-GasPipeTJunction.desc }
+    .suffix = RMC, тройник
+ent-RMCGasPipeFourway = { ent-GasPipeFourway }
+    .desc = { ent-GasPipeFourway.desc }
+    .suffix = RMC, крестовина

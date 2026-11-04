@@ -1,0 +1,16 @@
+ent-RMCLadder = лестница
+    .desc = Крепкая металлическая лестница.
+ent-RMCLadderUp = { ent-RMCLadder }
+    .desc = { ent-RMCLadder.desc }
+    .suffix = Вверх
+ent-RMCLadderThrough = { ent-RMCLadder }
+    .desc = { ent-RMCLadder.desc }
+    .suffix = Сквозной
+ent-RMCLadderHatch = { ent-RMCLadder }
+    .desc = { ent-RMCLadder.desc }
+    .suffix = Люк
+ent-RMCLadderRope = верёвка
+    .desc = Крепкая верёвка.
+ent-RMCLadderRopeAltDrawdepth = { ent-RMCLadderRope }
+    .desc = { ent-RMCLadderRope.desc }
+    .suffix = Поверх платформ

@@ -1,0 +1,14 @@
+ent-VehicleTankBase = танк
+    .desc = Тяжёлый бронированный танк, созданный для господства на поле боя.
+ent-VehicleTankTest = тестовый танк (автовождение)
+    .desc = Тестовый танк, который автоматически едет на восток при появлении.
+    .suffix = Отладка
+ent-VehicleTank = { ent-VehicleTankBase }
+    .desc = { ent-VehicleTankBase.desc }
+    .suffix = Управляемый, Танк, Базовый, Гусеничный
+ent-VehicleSPPTank = танк СПН
+    .desc = Тяжёлый боевой танк СПН.
+    .suffix = Управляемый, Танк, СПН
+ent-VehicleSPPTankCommand = командный танк СПН
+    .desc = Тяжёлый командный танк СПН.
+    .suffix = Управляемый, Танк, СПН, Командный интерьер

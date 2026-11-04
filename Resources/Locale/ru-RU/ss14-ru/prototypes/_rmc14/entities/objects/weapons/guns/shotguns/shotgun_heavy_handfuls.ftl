@@ -1,0 +1,10 @@
+ent-RMCShellShotgunHeavyBuckshot = горсть тяжёлых патронов с картечью
+    .desc = { ent-CMShellShotgunBase.desc }
+ent-RMCShellShotgunHeavySlugs = горсть тяжёлых пулевых патронов
+    .desc = { ent-CMShellShotgunBase.desc }
+ent-RMCShellShotgunHeavyBeanbag = горсть тяжёлых травматических пуль
+    .desc = { ent-CMShellShotgunBase.desc }
+ent-RMCShellShotgunHeavyFlechette = горсть тяжёлых патронов с флешеттами
+    .desc = { ent-CMShellShotgunBase.desc }
+ent-RMCShellShotgunIncendiaryHeavyBuckshot = горсть тяжёлых патронов «Дыхание дракона» с картечью
+    .desc = { ent-CMShellShotgunBuckshot.desc }

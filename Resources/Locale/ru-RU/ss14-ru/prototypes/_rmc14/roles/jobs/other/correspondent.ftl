@@ -1,0 +1,10 @@
+ent-CMSpawnPointCorrespondent = точка появления корреспондента
+    .desc = { ent-CMSpawnPointJobBase.desc }
+    .suffix = { ent-CMSpawnPointJobBase.suffix }
+ent-CMSpawnPointCombatCorrespondent = точка появления боевого корреспондента
+    .desc = { ent-CMSpawnPointCorrespondent.desc }
+    .suffix = { ent-CMSpawnPointCorrespondent.suffix }
+ent-CMGuidebookRoleCorrespondent = Корреспондент
+    .desc = { ent-CMGuidebookRole.desc }
+ent-CMGuidebookRoleCombatCorrespondent = Боевой корреспондент
+    .desc = { ent-CMGuidebookRoleCorrespondent.desc }

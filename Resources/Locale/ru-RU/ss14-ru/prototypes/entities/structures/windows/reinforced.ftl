@@ -1,0 +1,10 @@
+ent-ReinforcedWindow = бронированное окно
+    .desc = { ent-Window.desc }
+ent-WindowReinforcedDirectional = направленное бронеокно
+    .desc = Don't smudge up the glass down there.
+ent-ReinforcedWindowDiagonal = { ent-ReinforcedWindow }
+    .desc = { ent-ReinforcedWindow.desc }
+    .suffix = Диагональ
+ent-WindowReinforcedDirectionalCorner = { ent-WindowReinforcedDirectional }
+    .desc = { ent-WindowReinforcedDirectional.desc }
+    .suffix = Угол

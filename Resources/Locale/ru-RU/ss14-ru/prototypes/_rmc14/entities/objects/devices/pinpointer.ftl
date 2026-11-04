@@ -1,0 +1,9 @@
+ent-RMCPinpointerBase = пинпоинтер
+    .desc = Прочный армейский трекер. Меняет цвет в зависимости от расстояния до цели. Держи вертикально, чтобы сохранять точность.
+    .suffix = RMC
+ent-RMCPinpointerUniversal = { ent-RMCPinpointerBase }
+    .desc = { ent-RMCPinpointerBase.desc }
+    .suffix = Универсальный
+ent-RMCPinpointerAegisID = { ent-RMCPinpointerBase }
+    .desc = { ent-RMCPinpointerBase.desc }
+    .suffix = AEGIS

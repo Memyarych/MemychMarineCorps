@@ -1,0 +1,10 @@
+ent-RMCWindowFrameSolaris = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }
+ent-RMCWindowFrameSolarisReinforced = { ent-RMCWindowFrameColonyReinforced }
+    .desc = { ent-RMCWindowFrameColonyReinforced.desc }
+ent-CMWindowSolaris = окно
+    .desc = Стеклянное окно в рамке стены.
+ent-CMWindowSolarisReinforced = усиленное окно
+    .desc = Стеклянное окно. Внутри усилено несколькими закалёнными матричными стержнями вдоль основания. Выглядит довольно прочным. Возможно, потребуется несколько хороших ударов, чтобы разбить его.
+ent-CMWindowSolarisHull = окно корпуса
+    .desc = Стеклянное окно. Что-то подсказывает тебе, что это каким-то образом неразрушимо.

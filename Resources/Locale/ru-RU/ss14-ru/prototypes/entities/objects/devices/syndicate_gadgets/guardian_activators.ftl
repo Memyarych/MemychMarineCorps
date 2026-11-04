@@ -1,0 +1,12 @@
+ent-HoloparasiteInjector = инъектор голопаразита
+    .desc = Сложнейшее произведение искусства, основанное на наномашинах, позволяющее пользователю стать носителем голопаразита.
+ent-HoloClownInjector = инъектор голоклоуна
+    .desc = Сложнейшее произведение искусства, основанное на наномашинах, позволяющее пользователю стать носителем голоклоуна.
+ent-MagicalLamp = magical lamp
+    .desc = The wizard federation had to cut costs after the jinn merchandise scandal somehow.
+ent-BoxHoloparasite = коробка с голопаразитом
+    .desc = Коробка, содержащая инъектор голопаразита
+ent-BoxHoloclown = коробка с голоклоуном
+    .desc = Коробка, содержащая инъектор голоклоуна
+ent-GuardianDeck = колода стража
+    .desc = Колода карт Таро, способная привязать к вашему телу личного стража.

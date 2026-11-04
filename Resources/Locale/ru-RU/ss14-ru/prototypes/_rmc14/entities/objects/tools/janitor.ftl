@@ -1,0 +1,14 @@
+ent-CMMop = швабра
+    .desc = Мир уборки был бы неполным без швабры.
+ent-CMWetSign = табличка «мокрый пол»
+    .desc = Осторожно! Мокрый пол!
+ent-CMWarningCone = предупреждающий конус
+    .desc = Этот конус пытается тебя о чём-то предупредить!
+ent-RMCLightReplacer = заменитель лампочек
+    .desc = Устройство для автоматической замены лампочек. Пополняется рабочими лампочками.
+ent-RMCLightReplacerEmpty = { ent-RMCLightReplacer }
+    .desc = { ent-RMCLightReplacer.desc }
+    .suffix = Пустой
+ent-RMCSprayBottleSpaceCleaner = { ent-SprayBottleSpaceCleaner }
+    .desc = { ent-SprayBottleSpaceCleaner.desc }
+    .suffix = RMC

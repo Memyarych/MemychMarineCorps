@@ -1,0 +1,12 @@
+ent-XenoTunnel = Туннель
+    .desc = Вход в туннель. Похоже, его прорыло какое-то когтистое существо.
+ent-XenoTunnelMaint = Технический люк
+    .desc = Вход в технический туннель. Внутри видны кусочки слизи и смолы. Обломки мешают рассмотреть поближе.
+ent-XenoTunnelMaintNoXenoDesc = { ent-XenoTunnelMaint }
+    .desc = Вход в технический туннель. Обломки мешают рассмотреть поближе.
+    .suffix = Без описания ксеноморфов
+ent-XenoTunnelMaintHybrisa = канализационный люк
+    .desc = { ent-XenoTunnelMaint.desc }
+ent-XenoTunnelMaintHybrisaNoXenoDesc = канализационный люк
+    .desc = { ent-XenoTunnelMaintNoXenoDesc.desc }
+    .suffix = { ent-XenoTunnelMaintNoXenoDesc.suffix }

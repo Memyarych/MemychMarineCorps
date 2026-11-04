@@ -1,0 +1,15 @@
+ent-RMCAreaSupply = { ent-RMCAreaBase }
+    .desc = { ent-RMCAreaBase.desc }
+    .suffix = { ent-RMCAreaBase.suffix }
+ent-RMCAreaSupplyStation = Supply Shuttle
+    .desc = { ent-RMCAreaSupply.desc }
+    .suffix = { ent-RMCAreaSupply.suffix }
+ent-RMCAreaSupplyDock = Supply Shuttle
+    .desc = { ent-RMCAreaSupply.desc }
+    .suffix = { ent-RMCAreaSupply.suffix }
+ent-RMCAreaSupplyStationVehicle = Vehicle ASRS
+    .desc = { ent-RMCAreaSupply.desc }
+    .suffix = { ent-RMCAreaSupply.suffix }
+ent-RMCAreaSupplyDockVehicle = Vehicle ASRS
+    .desc = { ent-RMCAreaSupply.desc }
+    .suffix = { ent-RMCAreaSupply.suffix }

@@ -1,0 +1,16 @@
+ent-RMCIceCrystal = кристалл льда
+    .desc = Это гигантский кристалл льда. Химический процесс, который держит его замёрзшим, несмотря на значительные сезонные колебания температуры, — именно то, что здесь, на «Снежном коме», изучает научная команда Большой Аргентины ООН.
+ent-RMCIceCrystal2 = { ent-RMCIceCrystal }
+    .desc = { ent-RMCIceCrystal.desc }
+ent-RMCIceCrystal3 = { ent-RMCIceCrystal }
+    .desc = { ent-RMCIceCrystal.desc }
+ent-RMCIceCrystal4 = { ent-RMCIceCrystal }
+    .desc = { ent-RMCIceCrystal.desc }
+ent-RMCIceCrystal5 = { ent-RMCIceCrystal }
+    .desc = { ent-RMCIceCrystal.desc }
+ent-RMCIceCrystal6 = { ent-RMCIceCrystal }
+    .desc = { ent-RMCIceCrystal.desc }
+ent-RMCIceCrystal7 = { ent-RMCIceCrystal }
+    .desc = { ent-RMCIceCrystal.desc }
+ent-RMCIceCrystal8 = { ent-RMCIceCrystal }
+    .desc = { ent-RMCIceCrystal.desc }

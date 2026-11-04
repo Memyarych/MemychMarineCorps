@@ -1,0 +1,9 @@
+ent-RMCPlatformTyrargoRock = каменный край
+    .desc = Твёрдый кусок пустынных камней. Похоже, на него можно забраться с некоторым трудом.
+    .suffix = Tyrargo
+ent-RMCPlatformTyrargoRockBroken = разрушенный каменный край
+    .desc = Твёрдый кусок пустынных камней. Похоже, на него можно забраться с некоторым трудом. Он разрушен.
+    .suffix = Tyrargo
+ent-RMCPlatformTyrargoRockCornerSmall = каменный угол
+    .desc = Твёрдый кусок пустынных камней.
+    .suffix = Tyrargo

@@ -1,0 +1,10 @@
+ent-RMCSpawnerIntelBase = спавнер разведданных
+    .desc = { ent-MarkerBase.desc }
+ent-RMCSpawnerIntelClose = ориентир цели — близко
+    .desc = { ent-RMCSpawnerIntelBase.desc }
+ent-RMCSpawnerIntelMedium = ориентир цели — средне
+    .desc = { ent-RMCSpawnerIntelBase.desc }
+ent-RMCSpawnerIntelFar = ориентир цели — далеко
+    .desc = { ent-RMCSpawnerIntelBase.desc }
+ent-RMCSpawnerIntelScience = ориентир цели — наука
+    .desc = { ent-RMCSpawnerIntelBase.desc }

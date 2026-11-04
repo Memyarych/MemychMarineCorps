@@ -1,0 +1,10 @@
+ent-RMCWindowFrameStrata = { ent-RMCBaseWindowFrame }
+    .desc = { ent-RMCBaseWindowFrame.desc }
+ent-RMCWindowFrameStrataReinforced = { ent-RMCWindowFrameColonyReinforced }
+    .desc = { ent-RMCWindowFrameColonyReinforced.desc }
+ent-RMCWindowStrata = окно
+    .desc = Стеклянное окно в рамке стены.
+ent-RMCWindowStrataReinforced = усиленное окно
+    .desc = Стеклянное окно. Свет преломляется неправильно, когда смотришь сквозь него. Выглядит довольно прочным. Возможно, потребуется несколько хороших ударов, чтобы разбить его.
+ent-RMCWindowStrataHull = окно корпуса
+    .desc = Стеклянное окно. Свет преломляется неправильно, когда смотришь сквозь него. Выглядит довольно прочным. Сюда никак не пробраться.

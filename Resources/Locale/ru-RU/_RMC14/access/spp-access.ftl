@@ -1,0 +1,10 @@
+rmc-access-spp-general = СПН: общий
+rmc-access-spp-medical = СПН: медицинский
+rmc-access-spp-engineering = СПН: инженерный
+rmc-access-spp-security = СПН: безопасность
+rmc-access-spp-armory = СПН: арсенал
+rmc-access-spp-flight = СПН: лётный
+rmc-access-spp-research = СПН: исследования
+rmc-access-spp-commando = СПН: коммандос
+rmc-access-spp-leadership = СПН: руководство
+rmc-access-spp-senior-lead = СПН: старшее руководство

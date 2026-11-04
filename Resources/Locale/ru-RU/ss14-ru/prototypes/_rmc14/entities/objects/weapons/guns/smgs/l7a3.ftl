@@ -1,0 +1,9 @@
+ent-RMCWeaponSMGL7A3 = пистолет-пулемёт L7A3
+    .desc = Принятый на вооружение RCM вариант пистолета-пулемёта M63, переработанный для лучшего веса, управляемости и точности. Обычно используется в ближнем бою, например при зачистке зданий, где L24A1 оказался слишком громоздким для таких задач.
+    .suffix = PVE, Заполнен, Royal
+ent-RMCMagazineSMGL7A3SquashHead = магазин L7A3 со сплющивающимися пулями (9 мм)
+    .desc = { ent-CMMagazineRifleBase.desc }
+ent-RMCCartridgeSMG9mmSquashHead = патрон со сплющивающейся головкой (9 мм)
+    .desc = { ent-CMCartridgeSMGBase.desc }
+ent-RMCBulletSMG9mmSquashHead = пуля со сплющивающейся головкой (9 мм)
+    .desc = { ent-CMBulletBase.desc }

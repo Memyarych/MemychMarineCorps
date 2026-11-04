@@ -1,0 +1,12 @@
+ent-CMLockerCMDCabinet = шкаф для планшета командования
+    .desc = Пуленепробиваемый шкаф, содержащий планшет командования для использования командиром.
+    .suffix = Пустой
+ent-CMLockerCMDCabinetFilled = { ent-CMLockerCMDCabinet }
+    .desc = { ent-CMLockerCMDCabinet.desc }
+    .suffix = Заполнен
+ent-RMCEmergencySurgicalCabinet = шкаф аварийного хирургического оборудования
+    .desc = Сверхбезопасный, самостерилизующийся настенный шкаф, содержащий дополнительные операционные столы, хирургические разгрузки и портативные машины для диализа. Он разблокируется и открывается сам, когда кораблю угрожает враждебная сила.
+    .suffix = Пустой
+ent-RMCEmergencySurgicalCabinetFilled = { ent-RMCEmergencySurgicalCabinet }
+    .desc = { ent-RMCEmergencySurgicalCabinet.desc }
+    .suffix = Заполняется при угоне

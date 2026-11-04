@@ -1,0 +1,15 @@
+ent-RMCWeaponLauncherDisposable = M5A1 SLAW
+    .desc = M5A1 SLAW — лёгкое одноразовое противотанковое оружие, способное поражать вражескую технику на дистанции до 1000 м. Полностью одноразовое: пусковая установка ракеты выбрасывается после выстрела. В сложенном виде система SLAW состоит из герметичной композитной углеволоконной пусковой трубы, внутри которой находится алюминиевая пусковая труба с ракетой. Оружие стреляет при нажатии кнопки заряда на рукоятке спуска. Прицеливание и стрельба ведутся с плеча.
+    .suffix = ББ
+ent-RMCWeaponLauncherDisposableExpended = { ent-RMCWeaponLauncherDisposable }
+    .desc = { ent-RMCWeaponLauncherDisposable.desc }
+    .suffix = Использовано
+ent-RMCWeaponLauncherDisposableFolded = M5A1 SLAW
+    .desc = Противотанковый РПГ M5A1 SLAW, сложенный для удобного хранения.
+    .suffix = ББ, сложен
+ent-RMCWeaponLauncherDisposableHE = M5A2 SHEL
+    .desc = M5A2 SHEL — лёгкая одноразовая пусковая установка, носимая на плече, с фугасной боевой частью. Как и M5A1, пусковая установка выбрасывается после выстрела и складывается при хранении.
+    .suffix = ФГ
+ent-RMCWeaponLauncherDisposableHEFolded = M5A2 SHEL
+    .desc = Фугасный РПГ M5A2 SHEL, сложенный для удобного хранения.
+    .suffix = ФГ, сложен

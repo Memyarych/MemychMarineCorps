@@ -1,0 +1,9 @@
+ent-RMCAreaERT = станция ERT
+    .desc = { ent-RMCAreaBase.desc }
+    .suffix = { ent-RMCAreaBase.suffix }
+ent-RMCAreaERTFax = Релейный узел связи сектора
+    .desc = { ent-RMCAreaERT.desc }
+    .suffix = Аванпост-ответчик факса, внутри
+ent-RMCAreaERTFaxExterior = Релейный узел связи сектора
+    .desc = { ent-RMCAreaERT.desc }
+    .suffix = Аванпост-ответчик факса, снаружи

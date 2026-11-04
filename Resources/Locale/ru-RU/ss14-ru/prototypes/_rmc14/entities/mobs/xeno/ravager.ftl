@@ -1,0 +1,10 @@
+ent-RMCXenoRavagerBase = Разрушитель
+    .desc = Огромный, мерзкий красный пришелец с громадными серповидными когтями.
+ent-CMXenoRavager = { ent-RMCXenoRavagerBase }
+    .desc = { ent-RMCXenoRavagerBase.desc }
+ent-RMCXenoRavagerBerserker = { ent-RMCXenoRavagerBase }
+    .desc = { ent-RMCXenoRavagerBase.desc }
+    .suffix = Берсерк
+ent-RMCXenoRavagerHedgehog = { ent-RMCXenoRavagerBase }
+    .desc = { ent-RMCXenoRavagerBase.desc }
+    .suffix = Ёж

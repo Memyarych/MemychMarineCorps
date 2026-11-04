@@ -1,0 +1,10 @@
+ent-BulletTaserSuper = заряд тазера
+    .desc = Если вы это видите, вы скорее всего стали жертвой стан-меты.
+ent-BulletDisablerSmgBase = заряд станнера-пулемёта
+    .desc = { ent-BaseBullet.desc }
+ent-BulletDisablerSmgSlowing = { ent-BulletDisablerSmgBase }
+    .desc = { ent-BulletDisablerSmgBase.desc }
+ent-BulletDisablerSmgStunning = { ent-BulletDisablerSmgBase }
+    .desc = { ent-BulletDisablerSmgBase.desc }
+ent-EnergyCrossbowBolt = энергозаряд
+    .desc = Будет больно.

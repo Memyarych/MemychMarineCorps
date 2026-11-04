@@ -1,0 +1,9 @@
+ent-RMCPlayingCardBase = Игральная карта
+    .desc = { ent-BaseItem.desc }
+ent-RMCPlayingCard = { ent-RMCPlayingCardBase }
+    .desc = { ent-RMCPlayingCardBase.desc }
+ent-RMCPlayingCardHand = Рука карт
+    .desc = { ent-BaseItem.desc }
+ent-RMCPlayingCardDeck = Колода карт
+    .desc = Клянусь, игра называлась «Золотая рыбка»!
+    .suffix = RMC

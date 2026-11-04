@@ -1,0 +1,9 @@
+ent-RMCSimpleMob = { ent-BaseSimpleMob }
+    .desc = { ent-BaseSimpleMob.desc }
+    .suffix = CM
+ent-RMCRodent = Абстрактный грызун
+    .desc = { ent-RMCSimpleMob.desc }
+    .suffix = CM
+ent-RMCSmallHost = абстрактный малый носитель
+    .desc = { ent-RMCSimpleMob.desc }
+    .suffix = { ent-RMCSimpleMob.suffix }

@@ -1,0 +1,14 @@
+ent-RMCXenoQueenBase = Королева
+    .desc = Огромное, нависающее создание-пришелец. Самое большое и самое злое.
+ent-CMXenoQueen = { ent-RMCXenoQueenBase }
+    .desc = { ent-RMCXenoQueenBase.desc }
+ent-XenoLeaderPheromoneRelay = { "" }
+    .desc = { "" }
+ent-RMCXenoQueenMaid = { ent-RMCXenoQueenBase }
+    .desc = { ent-RMCXenoQueenBase.desc }
+    .suffix = Королева-горничная-кошка
+ent-RMCXenoQueenMagical = { ent-RMCXenoQueenBase }
+    .desc = { ent-RMCXenoQueenBase.desc }
+    .suffix = Королева-девочка-волшебница
+ent-RMCQueenEye = глаз королевы
+    .desc = Похоже, это визуальная проекция кого-то.

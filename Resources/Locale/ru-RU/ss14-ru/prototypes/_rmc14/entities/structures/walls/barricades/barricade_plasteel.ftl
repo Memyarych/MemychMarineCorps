@@ -1,0 +1,13 @@
+ent-RMCBarricadePlasteel = пласталевая баррикада
+    .desc = Прочная и легко собираемая баррикада из армированных пласталевых пластин — вершина оборонительных укреплений. Чинится паяльной лампой.
+ent-RMCBarricadeBurnPlasteel = { ent-RMCBarricadePlasteel }
+    .desc = { ent-RMCBarricadePlasteel.desc }
+    .suffix = Биоопасность
+ent-RMCBarricadeBrutePlasteel = { ent-RMCBarricadePlasteel }
+    .desc = { ent-RMCBarricadePlasteel.desc }
+    .suffix = Усиленная
+ent-RMCBarricadeExplosivePlasteel = { ent-RMCBarricadePlasteel }
+    .desc = { ent-RMCBarricadePlasteel.desc }
+    .suffix = Композитная
+ent-CMBarricadePlasteelDoor = складная пласталевая баррикада
+    .desc = Прочная складная пласталевая баррикада, крепче своего металлического аналога. Её можно открыть и закрыть в любой момент. Чинится сварочным аппаратом.

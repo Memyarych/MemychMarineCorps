@@ -1,0 +1,9 @@
+ent-CMGirder = каркас
+    .desc = { ent-BaseStructure.desc }
+ent-CMGirderReinforced = усиленная каркас
+    .desc = { ent-CMGirder.desc }
+ent-RMCGirderDisplaced = смещённая
+    .desc = { ent-CMGirder.desc }
+    .suffix = котораяаркас
+ent-RMCGirderDamaged = повреждённая каркас
+    .desc = Скрученная каркас, которая больше не блокирует проход.
