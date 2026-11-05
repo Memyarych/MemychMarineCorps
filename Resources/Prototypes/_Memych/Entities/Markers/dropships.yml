@@ -1,0 +1,17 @@
+- type: entity
+  parent: RMCSpawnerShuttle
+  id: MemychSpawnerAlamo
+  suffix: Alamo
+  components:
+  - type: GridSpawner
+    spawn: "/Maps/_Memych/Shuttles/alamo.yml"
+    offset: -0.5, 0.5
+
+- type: entity
+  parent: RMCSpawnerShuttle
+  id: MemychSpawnerNormandy
+  suffix: Normandy
+  components:
+  - type: GridSpawner
+    spawn: "/Maps/_Memych/Shuttles/normandy.yml"
+    offset: -0.5, 0.5
